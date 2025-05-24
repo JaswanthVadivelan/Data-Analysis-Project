@@ -30,9 +30,3 @@ The analysis is based on publicly available or government-provided datasets conc
 - **Matplotlib:** Creating static, animated, and interactive visualizations.
 - **Seaborn:** Advanced statistical visualizations built on Matplotlib.
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/tn-marginal-workers-assessment.git
-   cd tn-marginal-workers-assessment
-
